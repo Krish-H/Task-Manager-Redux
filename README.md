@@ -70,11 +70,9 @@ The app will run at [http://localhost:3000](http://localhost:3000).
 src/
 │
 ├── components/      # Reusable UI components
-├── features/        # Redux slices and logic
-├── hooks/           # Custom React hooks
-├── utils/           # Utility functions
-├── App.js           # Main application component
-├── index.js         # Entry point
+├── redux/features/  # Redux slices and logic
+├── App.jsx          # Main application component
+├── main.jsx         # Entry point
 └── ...              # Additional files as needed
 ```
 
