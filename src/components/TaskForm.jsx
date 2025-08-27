@@ -41,11 +41,12 @@ const TaskForm = () => {
     className="bg-blue-500 hover:bg-blue-700 text-white border border-blue-500 rounded-r-full px-4 py-2 h-12"
     
   >
-    Add Task
+    Add 
   </button>
 </form>
 
   )
 }
+
 
 export default TaskForm
